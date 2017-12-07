@@ -13,8 +13,8 @@ In this repository the slides showed during the workshop and the  materials used
 | Gabriel Valiente (Technical University of Catalonia, Spain) |  [Software and pipelines for taxonomic assignment in metagenomics](./Workshop/Valiente_slides-2017-06-19-bari.pdf) |
 | Nills Peder Willassen (The Arctic University of Norway, Norway) | Marine Metagenomics |
 | Nicola Segata (University of Trento, Italy) | [Large-scale strain-level population genomics from metagenomics](./Workshop/NSegata_BARI_to_print.pdf) |
-| Carlotta De Filippo (IBIMET-CNR, Italy) | [Transitional Metagenomes: the role of globalization in shaping the human gut microbiota](./Workshop/De_Filippo_Bari_Elixir_giugno_2017.pdf) |
-| Stefano Nicotri (INFN, Italy) | [INFN Technological Infrastructure for biological data analysis](./Workshop/INFN_Technological_Infrastructure_for_biological_data_analysis.pdf) |
+| Carlotta De Filippo (IBIMET-CNR, Italy) | [Transitional Metagenomes: the role of globalization in shaping the human gut microbiota](./Workshop/De_Filippo_Bari_Elixir_giugno%202017.pdf) |
+| Stefano Nicotri (INFN, Italy) | [INFN Technological Infrastructure for biological data analysis](./Workshop/INFN_Technological%20Infrastructure%20for%20biological%20data%20analysis.pdf) |
 | Stevens Vincent (Hasselt Univ., BE) | [Diversity of microorganisms in the Hedera helix phyllosphere and their role in phytoremediation of air pollution](./Workshop/VincentStevens_Presentation.pdf) |
 | Duccio Cavalieri (University of Florence, Italy) | Role of the mycobiome in health and disease |
 | Omry Koren (Bar-Ilan University, Israel) | The Birth of a Microbiome |
